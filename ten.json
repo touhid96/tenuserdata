@@ -107,6 +107,24 @@
           "hashTag": ["#programming", "#loveprogramming"]
         }
       ]
+    },
+    {
+      "userName": "Mark Zuckerberg",
+      "profilePicture": "https://i.ibb.co/jbZ7F4M/mark.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Started raising cattle",
+          "date": "1 day ago",
+          "category": "Farming",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/DtfsG19/markpost.jpg",
+          "postDrescription": "Started raising cattle at Ko'olau Ranch on Kauai, and my goal is to create some of the highest quality beef in the world. The cattle are wagyu and angus, and they'll grow up eating macadamia meal and drinking beer that we grow and produce here on the ranch. We want the whole process to be local and vertically integrated. Each cow eats 5,000-10,000 pounds of food each year, so that's a lot of acres of macadamia trees. My daughters help plant the mac trees and take care of our different animals. We're still early in the journey and it's fun improving on it every season. Of all my projects, this is the most delicious.",
+
+          "reaction": true,
+          "hashTag": ["#farming", "#lovefarming"]
+        }
+      ]
     }
   ]
 }
