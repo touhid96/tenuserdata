@@ -1,0 +1,18 @@
+{
+  "userName": "Gabriela Molina León",
+  "profilePicture": "https://i.ibb.co/rxPRt6h/gabiprofile.jpg",
+  "followStatus": "Unfollow",
+  "posts": [
+    {
+      "title": "I just started my research stay at the Aviz research group",
+      "date": "8 month ago",
+      "category": "Research",
+      "readTime": "1 min",
+      "postImage": "https://i.ibb.co/zNNrLNZ/gabipost.png",
+      "postDrescription": "A bit late but I'm happy to report that I just started my research stay at the Aviz research group at Inria with the support of the DAAD German Academic Exchange Service. I will be working on multi-user interaction with wall displays, and look forward to the collaborations and life around hashtag#Paris in the next months ",
+
+      "reaction": true,
+      "hashTag": ["#phdlife", "#dataviz"]
+    }
+  ]
+}
